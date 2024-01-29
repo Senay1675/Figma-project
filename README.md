@@ -1,8 +1,8 @@
 # Created a page for a Sushi restaurant
 
-I would recomend to preview the site in a Macbook Pro 14" to get the best format.
+## [Figma Link](https://www.figma.com/file/yy3DtmPBZpDXmIKwXyaEBF/Fend23-Senay-Grafikverktyg-inl%C3%A4mning?type=design&node-id=109%3A43&mode=design&t=yLvJ521PDs51cNS4-1)
 
-## [Figma Link] (https://www.figma.com/file/yy3DtmPBZpDXmIKwXyaEBF/Fend23-Senay-Grafikverktyg-inl%C3%A4mning?type=design&node-id=109%3A43&mode=design&t=yLvJ521PDs51cNS4-1)
+I would recomend to preview the site in a Macbook Pro 14" to get the best format.
 
 ## Fonts that i used:
 
@@ -11,7 +11,7 @@ I would recomend to preview the site in a Macbook Pro 14" to get the best format
 - Atomic Age
 - Font Awsome 6
 
-Click on the links to get access to every Font
+## Click on the links to get access to every Font
 
 ```HTML
  <link rel="preconnect" href="https://fonts.google.com/specimen/Quicksand?query=quicksand">
